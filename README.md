@@ -1,6 +1,6 @@
 #  Erick Fernandes
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor BackEnd`**
 
 Me chamo Erick Fernandes, tenho 21 anos e sou natural do Rio de Janeiro, mas me considero um mineiro nato! Concluí o ensino médio em Juiz de Fora. Atualmente, estou cursando Ciências da Computação na UNIFAVIP. Sou apaixonado por tecnologia e por resolver problemas complexos e otimizar o backend de aplicações, utilizando boas práticas de programação e ferramentas modernas como Git, Docker, e metodologias ágeis.
 ---
